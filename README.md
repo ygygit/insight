@@ -1,0 +1,4 @@
+insight
+=======
+
+insight.core
